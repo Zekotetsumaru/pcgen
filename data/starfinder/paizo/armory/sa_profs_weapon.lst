@@ -1,67 +1,67 @@
 ###Block:BASIC MELEE WEAPONS
 # One-Handed Weapons
-Handaxe (basic)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Sap (light)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Sledge		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Switchblade (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Handaxe (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Tailblade		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Retractable spike (tactical)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Spined blade (basic)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Sap (medium)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Shell knuckles (tactical)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Hook knife		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Spined blade (buzzblade)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Switchblade (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Handaxe (sintered)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Retractable spike (advanced)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Sap (heavy)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Spined blade (ripper)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Shell knuckles (advanced)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Switchblade (zero-edge)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Handaxe (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Spined blade (gravity)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Retractable spike (elite)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Shell knuckles (elite)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Spined blade (rivener)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Switchblade (molecular-rift)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Handaxe (molecular-rift)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Retractable spike (paragon)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Shell knuckles (paragon)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
+Handaxe (basic)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Sap (light)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Sledge		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Switchblade (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Handaxe (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Tailblade		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Retractable spike (tactical)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Spined blade (basic)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Sap (medium)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Shell knuckles (tactical)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Hook knife		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Spined blade (buzzblade)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Switchblade (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Handaxe (sintered)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Retractable spike (advanced)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Sap (heavy)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Spined blade (ripper)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Shell knuckles (advanced)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Switchblade (zero-edge)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Handaxe (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Spined blade (gravity)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Retractable spike (elite)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Shell knuckles (elite)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Spined blade (rivener)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Switchblade (molecular-rift)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Handaxe (molecular-rift)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Retractable spike (paragon)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Shell knuckles (paragon)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
 
 # Two-Handed Weapons
-Garrote (wire)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Warclub		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Greataxe (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Lance (tactical)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Chitinblade (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Puzzleblade (conviction)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Living staff (tactical)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Maul (tactical)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Greataxe (sintered)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Scythe (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Garrote (nanofiber)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Lance (advanced)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Chitinblade (microserrated)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Puzzleblade (dedication)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Greataxe (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Maul (advanced)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Scythe (sintered)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Garrote (microfilament)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Living staff (advanced)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Chitinblade (nanoserrated)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Lance (elite)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Greataxe (molecular-rift)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Puzzleblade (moderation)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Maul (elite)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Living staff (elite)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Scythe (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Chitinblade (ultraserrated)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Garrote (monowire)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Lance (paragon)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Puzzleblade (tradition)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Living staff (paragon)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
-Maul (paragon)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee Weapons.Uncategorized
+Garrote (wire)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Warclub		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Greataxe (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Lance (tactical)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Chitinblade (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Puzzleblade (conviction)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Living staff (tactical)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Maul (tactical)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Greataxe (sintered)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Scythe (tactical)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Garrote (nanofiber)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Lance (advanced)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Chitinblade (microserrated)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Puzzleblade (dedication)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Greataxe (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Maul (advanced)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Scythe (sintered)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Garrote (microfilament)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Living staff (advanced)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Chitinblade (nanoserrated)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Lance (elite)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Greataxe (molecular-rift)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Puzzleblade (moderation)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Maul (elite)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Living staff (elite)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Scythe (ultrathin)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Chitinblade (ultraserrated)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Garrote (monowire)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Lance (paragon)		TYPE:P.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Puzzleblade (tradition)		TYPE:S.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Living staff (paragon)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
+Maul (paragon)		TYPE:B.Weapon.Melee.Weapon Group ~ Basic Melee Weapons.Basic Melee.Uncategorized
 
 ###Block:ADVANCED MELEE WEAPONS
 # One-Handed Weapons
